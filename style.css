@@ -1,0 +1,45 @@
+.box
+{
+    background-image: linear-gradient(rgba(213, 246, 247, 0.158),rgba(100, 101, 102, 0.273));
+    margin-top: 140px;
+}
+.top
+{
+
+}
+body
+{
+    background-image: url(./gallary/Weather.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    /* width: 100%; */
+    
+     /* background-position: center */
+}
+
+/* .cel
+{
+    margin-left: 160px;
+    font-size: 30px;
+    margin-top: -80px;
+    /* border: solid black;
+    border-radius: 40%; 
+}
+/* .min
+{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.max
+{
+    margin-left: 170px;
+    margin-top: -33px;
+}  */
+h3{
+    font-family: 'Sometype Mono', monospace;
+}
+h4{
+    font-family: 'Sometype Mono', monospace;
+
+
+}
